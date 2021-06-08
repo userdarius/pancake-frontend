@@ -23,10 +23,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         label: t('LP Migration'),
         href: 'https://v1exchange.pancakeswap.finance/#/migrate',
       },
-      {
-        label: t('V1 Liquidity (Old)'),
-        href: 'https://v1exchange.pancakeswap.finance/#/pool',
-      },
     ],
   },
   {
@@ -38,21 +34,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     label: t('Pools'),
     icon: 'PoolIcon',
     href: '/pools',
-  },
-  {
-    label: t('Lottery'),
-    icon: 'TicketIcon',
-    href: '/lottery',
-  },
-  {
-    label: t('Collectibles'),
-    icon: 'NftIcon',
-    href: '/collectibles',
-  },
-  {
-    label: t('Team Battle'),
-    icon: 'TeamBattleIcon',
-    href: '/competition',
   },
   {
     label: t('Teams & Profile'),
@@ -95,11 +76,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     ],
   },
   {
-    label: t('IFO'),
-    icon: 'IfoIcon',
-    href: '/ifo',
-  },
-  {
     label: t('More'),
     icon: 'MoreIcon',
     items: [
@@ -119,14 +95,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         label: t('Docs'),
         href: 'https://docs.pancakeswap.finance',
       },
-      {
-        label: t('Blog'),
-        href: 'https://pancakeswap.medium.com',
-      },
-      {
-        label: t('Merch'),
-        href: 'https://pancakeswap.creator-spring.com/',
-      },
+
     ],
   },
 ]
