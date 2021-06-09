@@ -93,8 +93,7 @@ const Home: React.FC = () => {
         <Heading as="h1" scale="xl" mb="24px" color="secondary">
           {t('Creatacoin DeX')}
         </Heading>
-        <Text>{t('CreataCoin is a free open source peer-to-peer electronic
-cash system that is completely decentralized')}</Text>
+        <Text>{t('Test1')}</Text>
       </Hero>
       <div>
         <Cards>
