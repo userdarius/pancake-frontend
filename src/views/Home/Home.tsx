@@ -91,9 +91,10 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" scale="xl" mb="24px" color="secondary">
-          {t('DariusSwap')}
+          {t('Creatacoin DeX')}
         </Heading>
-        <Text>{t('Flippin pancakes on a livelong day.')}</Text>
+        <Text>{t('CreataCoin is a free open source peer-to-peer electronic
+cash system that is completely decentralized')}</Text>
       </Hero>
       <div>
         <Cards>
