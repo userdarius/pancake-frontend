@@ -10,7 +10,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'CAKE',
     lpAddresses: {
       97: '0x9C21123D94b93361a29B2C2EFB3d5CD8B17e0A9e',
-      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+      56: '0x0eb1bc7161424fa5ec42319d32b9e98e7b667410',
     },
     token: tokens.syrup,
     quoteToken: tokens.wbnb,
