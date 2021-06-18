@@ -91,7 +91,7 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" scale="xl" mb="24px" color="secondary">
-          {t('Creatacoin DeX')}
+          {t('Cryptogenic')}
         </Heading>
         <Text>{t('Test1')}</Text>
       </Hero>
