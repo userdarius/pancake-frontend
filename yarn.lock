@@ -2082,7 +2082,7 @@
 "@xnorandom/cryptogenicuikitmod@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@xnorandom/cryptogenicuikitmod/-/cryptogenicuikitmod-1.0.2.tgz#eb399e9a6f72444f824432f46e365cd07a763018"
-  integrity sha512-F8y7BjGQuxLLAAfsBMsMjRb+wFwHqLk2252JRPQ3tVsrJGCGWaeUCeVpl3nQoeDcj/cAQWquGf+qD79fFvE7+Q==
+  integrity sha512-xCVktf+9NS50lPBxaNKmml/6K8MUSFVUJPe3Y+T/JI6MVtKYynMv63gVuygIUZmRPO5Tj3SIaL8YIZ9QX2U1pg==
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
