@@ -2080,8 +2080,8 @@
     eslint-plugin-react-hooks "^4.0.0"
 
 "@xnorandom/cryptogenicuikitmod@^1.0.2":
-  version "0.37.0"
-  resolved "https://registry.yarnpkg.com/@xnorandom/cryptogenicuikitmod/-/uikit-0.37.0.tgz#eb399e9a6f72444f824432f46e365cd07a763018"
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@xnorandom/cryptogenicuikitmod/-/cryptogenicuikitmod-1.0.2.tgz#eb399e9a6f72444f824432f46e365cd07a763018"
   integrity sha512-F8y7BjGQuxLLAAfsBMsMjRb+wFwHqLk2252JRPQ3tVsrJGCGWaeUCeVpl3nQoeDcj/cAQWquGf+qD79fFvE7+Q==
   dependencies:
     "@popperjs/core" "^2.9.2"
