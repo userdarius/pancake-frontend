@@ -2081,7 +2081,7 @@
 
 "@xnorandom/cryptogenicuikitmod@^1.0.4":
   version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@xnorandom/cryptogenicuikitmod/-/cryptogenicuikitmod-1.0.4.tgz"
+  resolved "https://registry.yarnpkg.com/@xnorandom/cryptogenicuikitmod/-/cryptogenicuikitmod-1.0.4.tgz#1d6d6e366f52b6a6eaf371339303921fa919febd"
   integrity sha512-KFMbzCT/rQx1tAL/HGbXKpftHMi/DSSJ+098BI3M+aVohbSlXCzbHGROzQ5a/MDrTO9c8xwVXbAAetPwR22t1g==
   dependencies:
     "@popperjs/core" "^2.9.2"
