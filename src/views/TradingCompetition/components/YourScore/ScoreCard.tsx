@@ -11,7 +11,7 @@ import {
   LaurelRightIcon,
   CheckmarkCircleIcon,
   useModal,
-} from 'cryptogenic_uikit'
+} from '@pancakeswap/uikit'
 import { CLAIM, OVER } from 'config/constants/trading-competition/easterPhases'
 import UnlockButton from 'components/UnlockButton'
 import { useTranslation } from 'contexts/Localization'

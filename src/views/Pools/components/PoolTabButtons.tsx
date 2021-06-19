@@ -8,7 +8,7 @@ import {
   Flex,
   NotificationDot,
   useMatchBreakpoints,
-} from 'cryptogenic_uikit'
+} from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import ToggleView, { ViewMode } from './ToggleView/ToggleView'
 

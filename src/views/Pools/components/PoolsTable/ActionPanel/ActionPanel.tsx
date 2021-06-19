@@ -12,7 +12,7 @@ import {
   Text,
   TimerIcon,
   useTooltip,
-} from 'cryptogenic_uikit'
+} from '@pancakeswap/uikit'
 import { BASE_URL } from 'config'
 import { getBscScanBlockCountdownUrl } from 'utils/bscscan'
 import { useBlock, useCakeVault } from 'state/hooks'
